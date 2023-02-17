@@ -1,0 +1,14 @@
+C:\programeren\2022csharp1\First console app\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.exe
+C:\programeren\2022csharp1\First console app\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.deps.json
+C:\programeren\2022csharp1\First console app\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.runtimeconfig.json
+C:\programeren\2022csharp1\First console app\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.runtimeconfig.dev.json
+C:\programeren\2022csharp1\First console app\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.dll
+C:\programeren\2022csharp1\First console app\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.pdb
+C:\programeren\2022csharp1\First console app\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.csproj.AssemblyReference.cache
+C:\programeren\2022csharp1\First console app\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\programeren\2022csharp1\First console app\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.AssemblyInfoInputs.cache
+C:\programeren\2022csharp1\First console app\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.AssemblyInfo.cs
+C:\programeren\2022csharp1\First console app\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\programeren\2022csharp1\First console app\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.dll
+C:\programeren\2022csharp1\First console app\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.pdb
+C:\programeren\2022csharp1\First console app\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.genruntimeconfig.cache
