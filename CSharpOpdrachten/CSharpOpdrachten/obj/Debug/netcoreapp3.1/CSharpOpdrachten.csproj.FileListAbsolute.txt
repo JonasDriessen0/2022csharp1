@@ -1,0 +1,14 @@
+C:\programeren\2022csharp1\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\netcoreapp3.1\CSharpOpdrachten.exe
+C:\programeren\2022csharp1\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\netcoreapp3.1\CSharpOpdrachten.deps.json
+C:\programeren\2022csharp1\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\netcoreapp3.1\CSharpOpdrachten.runtimeconfig.json
+C:\programeren\2022csharp1\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\netcoreapp3.1\CSharpOpdrachten.runtimeconfig.dev.json
+C:\programeren\2022csharp1\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\netcoreapp3.1\CSharpOpdrachten.dll
+C:\programeren\2022csharp1\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\netcoreapp3.1\CSharpOpdrachten.pdb
+C:\programeren\2022csharp1\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\netcoreapp3.1\CSharpOpdrachten.csproj.AssemblyReference.cache
+C:\programeren\2022csharp1\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\netcoreapp3.1\CSharpOpdrachten.GeneratedMSBuildEditorConfig.editorconfig
+C:\programeren\2022csharp1\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\netcoreapp3.1\CSharpOpdrachten.AssemblyInfoInputs.cache
+C:\programeren\2022csharp1\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\netcoreapp3.1\CSharpOpdrachten.AssemblyInfo.cs
+C:\programeren\2022csharp1\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\netcoreapp3.1\CSharpOpdrachten.csproj.CoreCompileInputs.cache
+C:\programeren\2022csharp1\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\netcoreapp3.1\CSharpOpdrachten.dll
+C:\programeren\2022csharp1\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\netcoreapp3.1\CSharpOpdrachten.pdb
+C:\programeren\2022csharp1\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\netcoreapp3.1\CSharpOpdrachten.genruntimeconfig.cache
