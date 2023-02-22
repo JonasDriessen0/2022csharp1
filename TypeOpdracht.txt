@@ -1,0 +1,11 @@
+room
+player
+noDoor
+camX
+camY
+lastKeyDown
+buffer
+totalGoldPicked
+index
+name
+runTime
